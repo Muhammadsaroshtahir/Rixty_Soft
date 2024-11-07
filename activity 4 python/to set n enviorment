@@ -1,0 +1,8 @@
+# how to set an enviorment
+# python -m venv name
+# cd name
+# pip install libries
+# pip freeze
+# cd..
+# cd..
+# requirments.txt
